@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7bixDIQuLJFokN96FII7HJjQGGkYaP4VCXPz1VoAszJvBY+QbgATF/CXvLTAHceDjnnY0GhIoCtET0WP9YFGA==",
+  "success": true,
+  "projectFilePath": "D:\\program\\Github\\Corpus\\Services\\Corpus.Services\\Corpus.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

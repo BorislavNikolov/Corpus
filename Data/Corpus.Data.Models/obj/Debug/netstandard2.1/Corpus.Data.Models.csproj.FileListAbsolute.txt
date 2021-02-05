@@ -1,0 +1,12 @@
+D:\program\Github\Corpus\Data\Corpus.Data.Models\bin\Debug\netstandard2.1\Corpus.Data.Models.deps.json
+D:\program\Github\Corpus\Data\Corpus.Data.Models\bin\Debug\netstandard2.1\Corpus.Data.Models.dll
+D:\program\Github\Corpus\Data\Corpus.Data.Models\bin\Debug\netstandard2.1\Corpus.Data.Models.pdb
+D:\program\Github\Corpus\Data\Corpus.Data.Models\bin\Debug\netstandard2.1\Corpus.Data.Common.dll
+D:\program\Github\Corpus\Data\Corpus.Data.Models\bin\Debug\netstandard2.1\Corpus.Data.Common.pdb
+D:\program\Github\Corpus\Data\Corpus.Data.Models\obj\Debug\netstandard2.1\Corpus.Data.Models.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Data\Corpus.Data.Models\obj\Debug\netstandard2.1\Corpus.Data.Models.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Data\Corpus.Data.Models\obj\Debug\netstandard2.1\Corpus.Data.Models.AssemblyInfo.cs
+D:\program\Github\Corpus\Data\Corpus.Data.Models\obj\Debug\netstandard2.1\Corpus.Data.Models.csproj.CopyComplete
+D:\program\Github\Corpus\Data\Corpus.Data.Models\obj\Debug\netstandard2.1\Corpus.Data.Models.dll
+D:\program\Github\Corpus\Data\Corpus.Data.Models\obj\Debug\netstandard2.1\Corpus.Data.Models.pdb
+D:\program\Github\Corpus\Data\Corpus.Data.Models\obj\Debug\netstandard2.1\Corpus.Data.Models.csproj.CoreCompileInputs.cache

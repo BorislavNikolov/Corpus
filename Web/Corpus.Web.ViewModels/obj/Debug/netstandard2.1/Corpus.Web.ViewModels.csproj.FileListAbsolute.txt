@@ -1,0 +1,16 @@
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Web.ViewModels.deps.json
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Web.ViewModels.dll
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Web.ViewModels.pdb
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Data.Common.dll
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Data.Models.dll
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Services.Mapping.dll
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Data.Models.pdb
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Services.Mapping.pdb
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\bin\Debug\netstandard2.1\Corpus.Data.Common.pdb
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\obj\Debug\netstandard2.1\Corpus.Web.ViewModels.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\obj\Debug\netstandard2.1\Corpus.Web.ViewModels.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\obj\Debug\netstandard2.1\Corpus.Web.ViewModels.AssemblyInfo.cs
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\obj\Debug\netstandard2.1\Corpus.Web.ViewModels.csproj.CopyComplete
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\obj\Debug\netstandard2.1\Corpus.Web.ViewModels.dll
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\obj\Debug\netstandard2.1\Corpus.Web.ViewModels.pdb
+D:\program\Github\Corpus\Web\Corpus.Web.ViewModels\obj\Debug\netstandard2.1\Corpus.Web.ViewModels.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\program\Github\Corpus\Services\Corpus.Services\bin\Debug\netstandard2.1\Corpus.Services.deps.json
+D:\program\Github\Corpus\Services\Corpus.Services\bin\Debug\netstandard2.1\Corpus.Services.dll
+D:\program\Github\Corpus\Services\Corpus.Services\bin\Debug\netstandard2.1\Corpus.Services.pdb
+D:\program\Github\Corpus\Services\Corpus.Services\obj\Debug\netstandard2.1\Corpus.Services.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Services\Corpus.Services\obj\Debug\netstandard2.1\Corpus.Services.AssemblyInfo.cs
+D:\program\Github\Corpus\Services\Corpus.Services\obj\Debug\netstandard2.1\Corpus.Services.dll
+D:\program\Github\Corpus\Services\Corpus.Services\obj\Debug\netstandard2.1\Corpus.Services.pdb
+D:\program\Github\Corpus\Services\Corpus.Services\obj\Debug\netstandard2.1\Corpus.Services.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Services\Corpus.Services\obj\Debug\netstandard2.1\Corpus.Services.csproj.CoreCompileInputs.cache

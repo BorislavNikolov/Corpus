@@ -1,0 +1,9 @@
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\bin\Debug\netstandard2.1\Corpus.Services.Mapping.deps.json
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\bin\Debug\netstandard2.1\Corpus.Services.Mapping.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\bin\Debug\netstandard2.1\Corpus.Services.Mapping.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\obj\Debug\netstandard2.1\Corpus.Services.Mapping.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\obj\Debug\netstandard2.1\Corpus.Services.Mapping.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\obj\Debug\netstandard2.1\Corpus.Services.Mapping.AssemblyInfo.cs
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\obj\Debug\netstandard2.1\Corpus.Services.Mapping.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\obj\Debug\netstandard2.1\Corpus.Services.Mapping.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Mapping\obj\Debug\netstandard2.1\Corpus.Services.Mapping.csproj.CoreCompileInputs.cache

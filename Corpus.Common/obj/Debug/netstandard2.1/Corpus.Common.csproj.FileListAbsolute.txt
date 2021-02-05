@@ -1,0 +1,9 @@
+D:\program\Github\Corpus\Corpus.Common\bin\Debug\netstandard2.1\Corpus.Common.deps.json
+D:\program\Github\Corpus\Corpus.Common\bin\Debug\netstandard2.1\Corpus.Common.dll
+D:\program\Github\Corpus\Corpus.Common\bin\Debug\netstandard2.1\Corpus.Common.pdb
+D:\program\Github\Corpus\Corpus.Common\obj\Debug\netstandard2.1\Corpus.Common.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Corpus.Common\obj\Debug\netstandard2.1\Corpus.Common.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Corpus.Common\obj\Debug\netstandard2.1\Corpus.Common.AssemblyInfo.cs
+D:\program\Github\Corpus\Corpus.Common\obj\Debug\netstandard2.1\Corpus.Common.dll
+D:\program\Github\Corpus\Corpus.Common\obj\Debug\netstandard2.1\Corpus.Common.pdb
+D:\program\Github\Corpus\Corpus.Common\obj\Debug\netstandard2.1\Corpus.Common.csproj.CoreCompileInputs.cache

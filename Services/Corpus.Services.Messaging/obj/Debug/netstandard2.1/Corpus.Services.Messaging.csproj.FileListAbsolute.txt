@@ -1,0 +1,9 @@
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\bin\Debug\netstandard2.1\Corpus.Services.Messaging.deps.json
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\bin\Debug\netstandard2.1\Corpus.Services.Messaging.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\bin\Debug\netstandard2.1\Corpus.Services.Messaging.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\obj\Debug\netstandard2.1\Corpus.Services.Messaging.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\obj\Debug\netstandard2.1\Corpus.Services.Messaging.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\obj\Debug\netstandard2.1\Corpus.Services.Messaging.AssemblyInfo.cs
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\obj\Debug\netstandard2.1\Corpus.Services.Messaging.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\obj\Debug\netstandard2.1\Corpus.Services.Messaging.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Messaging\obj\Debug\netstandard2.1\Corpus.Services.Messaging.csproj.CoreCompileInputs.cache

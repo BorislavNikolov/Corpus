@@ -1,0 +1,16 @@
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Services.Data.deps.json
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Services.Data.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Services.Data.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Data.Common.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Data.Models.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Services.Mapping.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Data.Common.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Data.Models.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Data\bin\Debug\netstandard2.1\Corpus.Services.Mapping.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Data\obj\Debug\netstandard2.1\Corpus.Services.Data.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Services\Corpus.Services.Data\obj\Debug\netstandard2.1\Corpus.Services.Data.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Services\Corpus.Services.Data\obj\Debug\netstandard2.1\Corpus.Services.Data.AssemblyInfo.cs
+D:\program\Github\Corpus\Services\Corpus.Services.Data\obj\Debug\netstandard2.1\Corpus.Services.Data.csproj.CopyComplete
+D:\program\Github\Corpus\Services\Corpus.Services.Data\obj\Debug\netstandard2.1\Corpus.Services.Data.dll
+D:\program\Github\Corpus\Services\Corpus.Services.Data\obj\Debug\netstandard2.1\Corpus.Services.Data.pdb
+D:\program\Github\Corpus\Services\Corpus.Services.Data\obj\Debug\netstandard2.1\Corpus.Services.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\bin\Debug\netstandard2.1\Corpus.Web.Infrastructure.deps.json
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\bin\Debug\netstandard2.1\Corpus.Web.Infrastructure.dll
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\bin\Debug\netstandard2.1\Corpus.Web.Infrastructure.pdb
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\obj\Debug\netstandard2.1\Corpus.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\obj\Debug\netstandard2.1\Corpus.Web.Infrastructure.AssemblyInfo.cs
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\obj\Debug\netstandard2.1\Corpus.Web.Infrastructure.dll
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\obj\Debug\netstandard2.1\Corpus.Web.Infrastructure.pdb
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\obj\Debug\netstandard2.1\Corpus.Web.Infrastructure.csprojAssemblyReference.cache
+D:\program\Github\Corpus\Web\Corpus.Web.Infrastructure\obj\Debug\netstandard2.1\Corpus.Web.Infrastructure.csproj.CoreCompileInputs.cache

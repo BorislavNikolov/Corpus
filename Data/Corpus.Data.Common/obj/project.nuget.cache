@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmJ3CAULvu8rgOzty5+OwQCAvixzcqV+POGwF4ah8Is8knKDYk4BVZS0NkNsAiwgza0N0RJqg3WxT4dZenknWg==",
+  "success": true,
+  "projectFilePath": "D:\\program\\Github\\Corpus\\Data\\Corpus.Data.Common\\Corpus.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
