@@ -21,6 +21,11 @@
         public string Description { get; set; }
 
         [Required]
+        public int TotalMacrosId { get; set; }
+
+        public TotalMacros TotalMacros { get; set; }
+
+        [Required]
         public virtual ICollection<Food> Meals { get; set; }
     }
 }

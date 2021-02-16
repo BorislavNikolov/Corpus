@@ -4,6 +4,7 @@
     using System.ComponentModel.DataAnnotations;
 
     using Corpus.Data.Common.Models;
+    using Corpus.Data.Models.Enums;
 
     public class Workout : BaseDeletableModel<int>
     {
@@ -18,6 +19,9 @@
 
         [MaxLength(100)]
         public string Description { get; set; }
+
+        [Required]
+        public DifficultLevel DifficultLevel { get; set; }
 
         [Required]
         public virtual ICollection<Еxercise> Exercises { get; set; }

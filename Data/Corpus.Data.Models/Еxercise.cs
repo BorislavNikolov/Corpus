@@ -3,6 +3,7 @@
     using System.ComponentModel.DataAnnotations;
 
     using Corpus.Data.Common.Models;
+    using Corpus.Data.Models.Enums;
 
     public class Еxercise : BaseDeletableModel<int>
     {
@@ -14,6 +15,7 @@
         [MaxLength(200)]
         public string Description { get; set; }
 
-        //muscle group
+        [Required]
+        public TargetMuscleGroup TargetMuscleGroup { get; set; }
     }
 }
