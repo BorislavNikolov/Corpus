@@ -464,3 +464,4 @@ D:\program\Github\Corpus\Web\Corpus.Web\obj\Debug\net5.0\Corpus.Web.dll
 D:\program\Github\Corpus\Web\Corpus.Web\obj\Debug\net5.0\ref\Corpus.Web.dll
 D:\program\Github\Corpus\Web\Corpus.Web\obj\Debug\net5.0\Corpus.Web.pdb
 D:\program\Github\Corpus\Web\Corpus.Web\obj\Debug\net5.0\Corpus.Web.genruntimeconfig.cache
+D:\program\Github\Corpus\Web\Corpus.Web\obj\Debug\net5.0\Razor\Views\Exercises\Create.cshtml.g.cs

@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Create Exercise";
+}
+
+<div class="p-5 rounded text-white bg-dark mx-auto w-75">
+    <h2 class="text-center pb-2">Welcome, User</h2>
+    <p class="text-center font-weight-bold">Fill new exercise info here.</p>
+
+    <form class="col-6 mx-auto" method="post" enctype="multipart/form-data" asp-action="Create">
+        <div class="form-group">
+            <input type="text" class="form-control" placeholder="Name">
+            <span class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="text" class="form-control" placeholder="Description">
+            <span class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success d-block mx-auto mt-3 w-25">Create</button>
+    </form>
+</div>

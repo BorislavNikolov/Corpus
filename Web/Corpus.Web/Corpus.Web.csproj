@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.1" />
     <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
     <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.113" />
@@ -35,5 +35,10 @@
     <ProjectReference Include="..\..\Services\Corpus.Services\Corpus.Services.csproj" />
     <ProjectReference Include="..\Corpus.Web.Infrastructure\Corpus.Web.Infrastructure.csproj" />
     <ProjectReference Include="..\Corpus.Web.ViewModels\Corpus.Web.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Foods\" />
+    <Folder Include="Views\Posts\" />
   </ItemGroup>
 </Project>
